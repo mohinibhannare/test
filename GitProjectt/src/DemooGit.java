@@ -5,6 +5,9 @@ public class DemooGit
 		
 		System.out.println("Hello this is 2 part ");
 		
+		DemooGit d=new DemooGit ();
+		d.m1();
+		
 	}
 
 	
