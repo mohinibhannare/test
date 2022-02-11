@@ -11,6 +11,7 @@ public class DemooGit
 	public void m2() 
 	{
 		System.out.println(" m2 method ");
+		System.out.println("Hii from m2 method ");
 	}
 	
 	
