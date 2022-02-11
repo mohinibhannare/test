@@ -21,4 +21,8 @@ public class DemooGit
 		System.out.println(" m1 method ");
 	}
 	
+	
+	public void name() {
+		System.out.println("name");
+	}
 }
